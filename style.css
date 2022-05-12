@@ -11,3 +11,10 @@ th, td {
     height:auto;
     text-align: center;
 }
+#introduction-text{
+    color: rebeccapurple;
+    font-size: 20px;
+}
+.introduction{
+    background-color: powderblue;
+}
